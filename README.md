@@ -1,4 +1,4 @@
-### More than just a CS Student
+### Under Construction... For now
 
 <!--
 **OsmarGHz/OsmarGHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

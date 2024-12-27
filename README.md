@@ -1,4 +1,4 @@
-### Under Construction... For now
+<!-- ### Under Construction... For now -->
 
 <!--
 **OsmarGHz/OsmarGHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3F3F3&center=true&vCenter=true&width=435&lines=Welcome!;I'm+Osmar+Hernandez%2C+a+CS+Student)](https://git.io/typing-svg)
+<!--
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3F3F3&center=true&vCenter=true&width=435&lines=Welcome!;I'm+Osmar+Hernandez%2C+a+CS+Student" alt="Typing SVG" /></a>
+</div>
 -->

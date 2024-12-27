@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3F3F3&center=true&vCenter=true&width=435&lines=Welcome!;I'm+Osmar+Hernandez%2C+a+CS+Student)](https://git.io/typing-svg)
-<!--
-<div>
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3F3F3&center=true&vCenter=true&width=435&lines=Welcome!;I'm+Osmar+Hernandez%2C+a+CS+Student" alt="Typing SVG" /></a>
-</div>
+</p>
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3F3F3&center=true&vCenter=true&width=435&lines=Welcome!;I'm+Osmar+Hernandez%2C+a+CS+Student)](https://git.io/typing-svg)
 -->

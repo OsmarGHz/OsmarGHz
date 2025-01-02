@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FRiderStorm79">
+  <a href="https://codeforces.com/profile/RiderStorm79">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2FRiderStorm79">
+  </a>
 </p>
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF)](https://codeforces.com/profile/RiderStorm79)

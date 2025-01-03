@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 <!-- https://readme-typing-svg.demolab.com/demo/?color=F3F3F3&center=true&vCenter=true&lines=Welcome!;I%27m+Osmar+Hernandez%2C+a+CS+Student -->
 <!-- https://readme-typing-svg.demolab.com/demo/?color=0E0E0E&center=true&vCenter=true&lines=Welcome!;I%27m+Osmar+Hernandez%2C+a+CS+Student -->
+<!-- https://readme-typing-svg.demolab.com/demo/?color=99A3A4&center=true&vCenter=true&lines=Welcome!;I%27m+Osmar+Hernandez%2C+a+CS+Student -->

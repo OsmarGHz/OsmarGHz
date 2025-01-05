@@ -11,13 +11,10 @@
 <h2 align="center">Social Media</h2>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/RiderStorm79">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF">
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces">
-      <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces">
-    </picture>
-  </a>
+  <a target="_blank" href="https://leetcode.com/u/osmarjavier1"><img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-bf7910?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a target="_blank" href="https://codeforces.com/profile/RiderStorm79"><img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-176898?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a target="_blank" href="mailto:osmarhernandez23@outlook.com?subject="><img alt="Static Badge" src="https://img.shields.io/badge/Mail-af3228?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/osmarghz"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-084d92?style=for-the-badge&logoColor=white"></a>
 </p>
 
 <h2 align="center">Who am I?</h2>

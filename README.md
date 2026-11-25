@@ -17,4 +17,13 @@
   <a target="_blank" href="https://www.linkedin.com/in/osmarghz"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-084d92?style=for-the-badge&logoColor=white"></a>
 </p>
 
-<h2 align="center">Who am I?</h2>
+### About Me
+- Computer Science & Engineering student at **BUAP** (Expected June 2028, GPA **9.75/10**).
+- Currently building a **Python/OpenCV** capillaroscopy analysis toolkit (BUAP Practicum) and participating in **Samsung Innovation Campus 2026** (AI & Leadership).
+- Former **Algorithms Instructor** at the BUAP Competitive Programming Club (30 students/semester) and **2× ICPC Mexico Finals Qualifier** (2024, 2025).
+
+### Core Stack
+- **Languages:** Python, C++, TypeScript, JavaScript, Java, SQL
+- **Web & Backend:** React, FastAPI, Node.js, Express, PostgreSQL (Supabase), Playwright
+- **ML & Computer Vision:** OpenCV, scikit-learn, LightGBM, pandas, NumPy
+- **Tools & CI/CD:** Git, GitHub Actions, Docker, Vitest, Linux
